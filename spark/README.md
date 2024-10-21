@@ -33,12 +33,16 @@ I set cross sparks velocity are bigger than line sparks.
 <img width="50%" alt="spark_shape" src="https://github.com/user-attachments/assets/8bc21c7f-9e93-482d-b9da-2ab05309edf3">
 
 * line
-![line](https://github.com/user-attachments/assets/9c6fd8b0-93b1-4331-aed1-275f4d12d4e8)
+
+<img width="70%" alt="line" src="https://github.com/user-attachments/assets/9c6fd8b0-93b1-4331-aed1-275f4d12d4e8">
 
 * long line
-![longline](https://github.com/user-attachments/assets/108e1f19-d3c5-4ab5-9c78-1d69a8b180a1)
+
+<img width="70%" alt="longline" src="https://github.com/user-attachments/assets/108e1f19-d3c5-4ab5-9c78-1d69a8b180a1">
 
 * cross
-![cross](https://github.com/user-attachments/assets/31f2a0cb-2f66-4538-8009-c70a77b56218)
+
+<img width="70%" alt="cross" src="https://github.com/user-attachments/assets/31f2a0cb-2f66-4538-8009-c70a77b56218">
+
 
 
